@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*roll over*/
+
+
+/*codigos para el header*/eds
+.hero {
+    background-color: white;
+    min-height: 450px;
+    text-align: center;
+}
+h1{font-size: 2.5rem}
+
+.hero-principal{padding: 4rem;}
+
+.hero-imagen-mach{
+    width: 600px;
+    height: 150;
+    margin: 30px;
+}
+
+.hero-principal h3{
+    font-size: 1.5rem;
+    color: gray;
+    /*agregar tipografia*/
+}
+
+
+
+/*estilo para div*/
+
+#div5 { height: 50px; 
+    background-color: #1B2CAB;
+    margin: 0; padding: 0;
+}
+#div6 { height: 30px; 
+    background-color:#3F52CC;
+    margin: 0; padding: 0;
+}
+
+#div7 { height: 20px; 
+    background-color:#BBC5FB;
+    margin: 0; padding: 0;
+}
+
+#div8 { height: 30px; 
+    background-color:#FAE311;
+    margin: 0; padding: 0;
+}
+#div9 { height: 20px; 
+    background-color:#FDF18C;
+    margin: 0; padding: 0;
+}
+#div3 { height: 80px; 
+    background-color:black;
+    margin: 0; padding: 0;
+}
+
+#div10 { height: 60px; 
+    background-color:#303030;
+    margin: 0; padding: 0;
+}
+
+#div11 { height: 40px; 
+    background-color:#797979;
+    margin: 0; padding: 0;
+    }
+
+#div12 { height: 20px; 
+    background-color:#C2C2C2;
+    margin: 0; padding: 0;
+    }
+
+#div13 { height: 20px; 
+    background-color:black;
+    margin: 0; padding: 0;
+}
+
+#div14 { height: 20px; 
+    background-color:#EB1313;
+    margin: 0; padding: 0;
+}
+#div15 { height: 20px; 
+    background-color:#F36868;
+    margin: 0; padding: 0;
+}  
+    
+#div16 { height: 20px; 
+    background-color:#FDE7E7;
+    margin: 0; padding: 0;
+}
+
+
+/*estilo para textos*/
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1{
+  font-family: "Lexend Giga", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/*universal*/
+
+
+
+
+
+
+
